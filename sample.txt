@@ -1,2 +1,3 @@
 Hello, my name is kenta.
 add it remembers changed index.
+pull get remote repository.
